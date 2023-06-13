@@ -5,7 +5,7 @@
 - Managed and educated a team of three junior developers.
 - Dreaming of building more and complex web applications with modern technologies.
 - 📫 Follow me on twitter @Aurakeith3.
-- Currently, I am working on Core Network Packet Switching which proves to be an interesting field. The thrill in knowing how the network work and combining it with software development is superb.
+- Currently, I am working on Core Network Packet Switching which proves to be an interesting field. The thrill in knowing how the network work and combining it with software development is superb. The interest in becoming a DevOps engineer aligns well with learning new features in the network and cloud field.
 
 <!---
 aurakei/aurakei is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
