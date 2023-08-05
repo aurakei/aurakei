@@ -1,6 +1,6 @@
 - 👋 Hi, I'm @aurakei, a highly skilled Software Engineer with a strong passion for creating exceptional web experiences. My expertise lies in HTML, CSS, and JavaScript, and I have extensive hands-on experience in developing robust applications using Node.js, PHP, Laravel, React, and MySQL.
 
-With a solid background in Information Sciences and a proven track record in the workforce, I am committed to continuous growth as a Software Developer as well as DevOps engineer. I possess exceptional critical thinking abilities, enabling me to make sound decisions and solve complex problems efficiently. My effective time management and multitasking skills allow me to meet project deadlines and deliver high-quality results.
+-With a solid background in Information Sciences and a proven track record in the workforce, I am committed to continuous growth as a Software Developer as well as DevOps engineer. I possess exceptional critical thinking abilities, enabling me to make sound decisions and solve complex problems efficiently. My effective time management and multitasking skills allow me to meet project deadlines and deliver high-quality results.
 
 One of my key strengths is my communication prowess, which enables me to collaborate effectively with cross-functional teams and clients, ensuring a smooth workflow and successful project outcomes. I am constantly honing my skills and staying updated with the latest industry trends, technologies, and best practices to excel in my career.
 
@@ -13,7 +13,7 @@ Let's connect and explore how my comprehensive skill set and unwavering commitme
 - Managed and educated a team of three junior developers.
 - Dreaming of building more and complex web applications with modern technologies.
 - 📫 Follow me on twitter @Aurakeith3.
-- Currently, I am working on Core Network Packet Switching which proves to be an interesting field. The thrill in knowing how the network work and combining it with software development is superb. The interest in becoming a DevOps engineer aligns well with learning new features in the network and cloud field.
+- Currently, I am working as Core Network Packet Switching Engineer which proves to be an interesting field. The thrill in knowing how the network work and combining it with software development is superb. The interest in becoming a DevOps engineer aligns well with learning new features in the network and cloud field.
 
 <!---
 aurakei/aurakei is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
